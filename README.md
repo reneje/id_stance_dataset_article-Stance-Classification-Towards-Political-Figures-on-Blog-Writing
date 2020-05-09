@@ -20,7 +20,15 @@ On experiments we use stopwords by Tala [1], sentiment lexicon by Vania et al.[2
 
 or you can copy this BibTex
 ```bash
-@INPROCEEDINGS{8629144,  author={R. {Jannati} and R. {Mahendra} and C. W. {Wardhana} and M. {Adriani}},  booktitle={2018 International Conference on Asian Language Processing (IALP)},   title={Stance Classification Towards Political Figures on Blog Writing},   year={2018},  volume={},  number={},  pages={96-101},}
+@INPROCEEDINGS{8629144,  
+author={R. {Jannati} and R. {Mahendra} and C. W. {Wardhana} and M. {Adriani}},  
+booktitle={2018 International Conference on Asian Language Processing (IALP)},   
+title={Stance Classification Towards Political Figures on Blog Writing},   
+year={2018},  
+volume={},  
+number={},  
+pages={96-101},
+}
 ```
 
 ## License
