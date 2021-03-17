@@ -19,6 +19,7 @@ On experiments we use stopwords by Tala [1], sentiment lexicon by Vania et al.[2
 This dataset and the other resource can be used for free, but if you want to publish paper/publication using this dataset, please cite this publication:
 
 **R. Jannati, R. Mahendra, C. W. Wardhana and M. Adriani, "Stance Classification Towards Political Figures on Blog Writing," *2018 International Conference on Asian Language Processing (IALP)*, Bandung, Indonesia, 2018, pp. 96-101, doi: 10.1109/IALP.2018.8629144.**
+IEEE Xplore https://ieeexplore.ieee.org/document/8629144
 
 or you can copy this BibTex
 
